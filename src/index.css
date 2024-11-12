@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  background: black;
+}
+
+/* Styles personnalisés pour les inputs range */
+input[type="range"] {
+  -webkit-appearance: none;
+  @apply bg-black/10 h-2 rounded-lg;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  @apply w-4 h-4 rounded-full bg-gray-500 cursor-pointer;
+}
+
+/* Style pour le menu draggable */
+.draggable-menu {
+  touch-action: none;
+  user-select: none;
+}
