@@ -46,6 +46,6 @@ L'application est déployée sur **Vercel**. Vous pouvez y accéder via ce lien 
 Ce projet est sous licence **MIT**. Vous êtes libre de l'utiliser, de le modifier et de le partager.
 
 ![Description de l'image](./public/iphone16.png)
-![Description de l'image](/iphone.png)
+![Description de l'image](./public/iphone.png)
 
 
