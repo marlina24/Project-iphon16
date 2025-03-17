@@ -13,7 +13,7 @@ Ce projet est une application développée en **React** qui permet aux utilisate
 ## Technologies utilisées
 - **React.js** : Framework principal pour le développement de l'application.
 - **Three.js** : Pour l'affichage 3D et l'interaction avec le modèle du téléphone.
-- **Tailwind CSS** : Pour le style et la mise en page responsive.
+- **CSS** : Pour le style et la mise en page responsive.
 - **Redux** : Gestion de l'état global pour la personnalisation.
 - **Vercel** : Hébergement et déploiement de l'application.
 
@@ -44,3 +44,8 @@ L'application est déployée sur **Vercel**. Vous pouvez y accéder via ce lien 
 
 ## Licence
 Ce projet est sous licence **MIT**. Vous êtes libre de l'utiliser, de le modifier et de le partager.
+
+![Description de l'image](/iphone16.png)
+![Description de l'image](/iphone.png)
+
+
